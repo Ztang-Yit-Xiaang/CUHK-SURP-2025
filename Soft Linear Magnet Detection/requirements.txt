@@ -1,0 +1,9 @@
+国内安装
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple torch
+scipy
+pyserial
+torch
+torchvision
+keyboard
+pyqt5-tools
+tqdm
